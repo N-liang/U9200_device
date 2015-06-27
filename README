@@ -1,1 +1,10 @@
 CyanogenMod 12.1 Android 5.1 Lollipop ROM for Huawei Ascend P1 and P1XL (u9200 and u9200e)
+
+
+本次代码为外置卡
+感谢Shevt 和d1z
+
+
+
+kernel文件下的build_kernel.sh请更改位：
+export MY_CONFIG=viva_defconfig
